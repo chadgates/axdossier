@@ -1,0 +1,40 @@
+<dossierTable class="entity" xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">
+  <AgentId xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">0789</AgentId>
+  <ArrivalDate xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">POD</ArrivalDate>
+  <ArrivalDateFND xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">2014-01-06</ArrivalDateFND>
+  <ArrivalDatePOD xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">2014-01-06</ArrivalDatePOD>
+  <BillofLading xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">2016_12_06_005</BillofLading>
+  <CarrierId xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">NYKS</CarrierId>
+  <CommodityId xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">FAK</CommodityId>
+  <ConventionalNoYes xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">No</ConventionalNoYes>
+  <CustAccount xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">0916</CustAccount>
+  <CustomerReference xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">test_2016_12_06_005</CustomerReference>
+  <Goods xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">240 ctns dishwasher</Goods>
+  <InHouseRemarks xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">Hi</InHouseRemarks>
+  <InvoiceAccount xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">0916</InvoiceAccount>
+  <LocationRouting xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">CNSHA</LocationRouting>
+  <Payment xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">N1530</Payment>
+  <PortFinalDestination xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">DEHAM</PortFinalDestination>
+  <PortofDischarge xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">DEHAM</PortofDischarge>
+  <PortofLoading xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">CNBJO</PortofLoading>
+  <PortofReceipt xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">CNBJO</PortofReceipt>
+  <SailingDate xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">POL</SailingDate>
+  <SailingDatePOL xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">2013-12-05</SailingDatePOL>
+  <SailingDatePOR xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">2013-12-05</SailingDatePOR>
+  <SalesTaker xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">000000038</SalesTaker>
+  <ServiceModeFND xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">CY</ServiceModeFND>
+  <ServiceModePOR xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">CY</ServiceModePOR>
+  <VesselId xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">OOCL CHONGQING</VesselId>
+  <VoyageNumber xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">003W48</VoyageNumber>
+  <dossierContainers class="entity" xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/COMMODAxdDossierImport">
+    <ContainerNo>MAEU1234567</ContainerNo>
+    <DossierId></DossierId>
+    <Goods>240 CTNS DISHWASHER</Goods>
+    <LineNum>1.00</LineNum>
+    <MoveContainer>FCL_FCL</MoveContainer>
+    <NumberOf>1</NumberOf>
+    <UnitIDContainer>40HQ</UnitIDContainer>
+    <UnitIDSales>40HQ</UnitIDSales>
+    <Weight>7778.28</Weight>
+  </dossierContainers>
+</dossierTable>
